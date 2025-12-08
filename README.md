@@ -43,7 +43,7 @@
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/DeepAgent) [![github](https://img.shields.io/github/stars/RUC-NLPIR/DeepAgent.svg?style=social)](https://github.com/RUC-NLPIR/DeepAgent) [![arXiv](https://img.shields.io/badge/Arxiv-2510.21618-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.21618) [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)](https://huggingface.co/papers/2510.21618)
 
 
- > [**WebThinker: Exploring the Deep Web with Powerful Reasoning Capability  (NeurIPS 2025)**](https://arxiv.org/abs/2504.21776) <br>
+ > [**WebThinker: Empowering Large Reasoning Models with Deep Research Capability (NeurIPS 2025)**](https://arxiv.org/abs/2504.21776) <br>
 > **Authors:** Xiaoxi Li*, Jiajie Jin*, Guanting Dong*, Hongjin Qian, Yutao Zhu, Yongkang Wu, Ji-Rong Wen, Zhicheng Dou <br>
 > **TLDR:** A deep research agent that empowers large reasoning models with autonomous search, web browsing, and research report drafting capabilities. <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/WebThinker) [![github](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker.svg?style=social)](https://github.com/RUC-NLPIR/WebThinker) [![arXiv](https://img.shields.io/badge/Arxiv-2504.21776-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2504.21776) [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)](https://huggingface.co/papers/2504.21776)
